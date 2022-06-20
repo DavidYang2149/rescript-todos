@@ -1,0 +1,32 @@
+## Mac OS x
+.DS_*
+
+## IntelliJ
+.idea
+
+## VS Code
+.vscode
+
+## Node.js
+node_modules
+
+## Rescript
+lib
+.bsb.lock
+.merlin
+
+## Parcel
+.parcel-cache
+
+## Build
+dist
+build
+
+## Env
+.env
+
+# misc
+*.pem
+
+# debug
+npm-debug.log*
